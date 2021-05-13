@@ -1,0 +1,4 @@
+20141210-134210>[cms_logger.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[15419], SIGTERM signal caught[15]]
+20141210-134233>[cms_logger.cpp]-[loggerMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]

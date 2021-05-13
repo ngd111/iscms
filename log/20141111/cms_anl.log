@@ -1,0 +1,5 @@
+20141111-161943>[
+	[CST-0, Message queue creation success with iscms_logger]
+	[CST-0, Message queue open success with iscms_event]
+20141111-171011>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[14614], SIGTERM signal caught[15]]

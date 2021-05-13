@@ -1,0 +1,22 @@
+20141118-171300>[cms_anl.cpp]-[analysisMain]
+20141118-171300>[
+€¦‡þj
+	[CST-0, Message queue open success with QUE_EVENT]
+20141118-171445>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[8101], SIGTERM signal caught[15]]
+20141118-172433>[cms_anl.cpp]-[loggerMain]
+[
+20141118-172433>[cms_anl.cpp]-[analysisMain]
+	[CST-0, Message queue open success with QUE_EVENT]
+20141118-172639>[
+20141118-172639>[cms_anl.cpp]-[analysisMain]
+€vÒ¿´
+	[CST-0, Message queue open success with QUE_EVENT]
+20141118-173851>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[8856], SIGTERM signal caught[15]]
+20141118-174144>[cms_anl.cpp]-[loggerMain]
+20141118-174144>	
+	
+	[CST-0, Message queue open success with QUE_EVENT]
+20141118-174313>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[10024], SIGTERM signal caught[15]]

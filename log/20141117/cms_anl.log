@@ -1,0 +1,259 @@
+20141117-103113>	
+	[CST-0, Message queue creation success with QUE_LOGGER]
+	[CST-0, Message queue open success with QUE_EVENT]
+20141117-103921>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[21305], SIGTERM signal caught[15]]
+20141117-104019>[cms_anl.cpp]-[analysisMain]
+20141117-104019>
+	[CST-0, Message queue open success with QUE_EVENT]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141117-104642>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[21492], SIGTERM signal caught[15]]
+20141117-104752>[
+20141117-104752>	
+	
+	[CST-0, Message queue open success with QUE_EVENT]
+20141117-105637>[cms_anl.cpp]-[analysisMain]
+20141117-105637>
+	
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141117-110727>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[22226], SIGTERM signal caught[15]]
+20141117-110828>[
+20141117-110828>[cms_anl.cpp]-[loggerMain]
+	[CST-0, Message queue open success with QUE_EVENT]
+20141117-110833>[cms_anl.cpp]-[analysisMain]
+20141117-110833>
+	
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141117-110843>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[23113], SIGTERM signal caught[15]]
+20141117-110932>[cms_anl.cpp]-[analysisMain]
+20141117-110932>
+	[CST-0, Message queue open success with QUE_EVENT]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141117-111115>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[23129], SIGTERM signal caught[15]]
+20141117-131530>
+20141117-131530>[cms_anl.cpp]-[loggerMain]
+
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141117-131752>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[28790], SIGTERM signal caught[15]]
+20141117-131810>
+20141117-131810>[cms_anl.cpp]-[loggerMain]
+
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141117-132706>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[28871], SIGTERM signal caught[15]]
+20141117-134313>[
+20141117-134313>[cms_anl.cpp]-[analysisMain]
+	[CST-0, Message queue open success with QUE_EVENT]
+20141117-134607>[
+20141117-134607>[cms_anl.cpp]-[analysisMain]
+€V§dF
+	[CST-0, Message queue open success with QUE_EVENT]
+20141117-135450>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[30229], SIGTERM signal caught[15]]
+20141117-141319>[cms_anl.cpp]-[analysisMain]
+20141117-141319>[
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141117-141405>[cms_anl.cpp]-[analysisMain]
+	[CST-0, Message queue open success with QUE_EVENT]
+20141117-141406>[cms_anl.cpp]-[analysisMain]
+	[CST-0, Message queue open success with QUE_EVENT]
+20141117-141438>[cms_anl.cpp]-[analysisMain]
+	[CST-0, Message queue open success with QUE_EVENT]
+20141117-141504>[cms_anl.cpp]-[analysisMain]
+20141117-141504>
+	[CST-0, Message queue open success with QUE_EVENT]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141117-141759>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[31598], SIGTERM signal caught[15]]
+20141117-141930>[cms_anl.cpp]-[analysisMain]
+	[CST-0, Message queue open success with QUE_EVENT]
+20141117-141952>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[31684], SIGTERM signal caught[15]]
+20141117-142607>[cms_anl.cpp]-[loggerMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141117-142808>[cms_anl.cpp]-[analysisMain]
+	[CST-0, Message queue open success with QUE_EVENT]
+20141117-142817>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[478], SIGTERM signal caught[15]]
+20141117-142827>[cms_anl.cpp]-[analysisMain]
+	[CST-0, Message queue open success with QUE_EVENT]
+20141117-142837>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[484], SIGTERM signal caught[15]]
+20141117-142859>[cms_anl.cpp]-[analysisMain]
+	[CST-0, Message queue open success with QUE_EVENT]
+20141117-142906>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[501], SIGTERM signal caught[15]]
+20141117-143135>[cms_anl.cpp]-[analysisMain]
+20141117-143135>
+	[CST-0, Message queue open success with QUE_EVENT]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141117-143144>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[620], SIGTERM signal caught[15]]
+20141117-143214>[cms_anl.cpp]-[loggerMain]
+20141117-143214>
+	
+	[CST-0, Message queue open success with QUE_EVENT]
+20141117-143221>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[638], SIGTERM signal caught[15]]
+20141117-143559>[cms_anl.cpp]-[analysisMain]
+20141117-143559>
+	
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141117-143611>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[698], SIGTERM signal caught[15]]
+20141117-143624>
+20141117-143624>[cms_anl.cpp]-[loggerMain]
+	[CST-0, Message queue open success with QUE_EVENT]
+20141117-144249>[cms_anl.cpp]-[loggerMain]
+20141117-144249>	
+	
+	[CST-0, Message queue open success with QUE_EVENT]
+20141117-144301>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[913], SIGTERM signal caught[15]]
+20141117-144330>
+20141117-144330>[cms_anl.cpp]-[loggerMain]
+
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141117-144336>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[920], SIGTERM signal caught[15]]
+20141117-144346>[cms_anl.cpp]-[analysisMain]
+20141117-144346>
+	[CST-0, Message queue open success with QUE_EVENT]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141117-144353>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[940], SIGTERM signal caught[15]]
+20141117-144423>[cms_anl.cpp]-[analysisMain]
+20141117-144423>
+	[CST-0, Message queue open success with QUE_EVENT]
+[CST-0, Message queue creation success with QUE_LOGGER]
+20141117-144433>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[948], SIGTERM signal caught[15]]
+20141117-144444>
+20141117-144444>[cms_anl.cpp]-[loggerMain]
+
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141117-144513>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[963], SIGTERM signal caught[15]]
+20141117-144530>
+20141117-144530>	
+	
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141117-144536>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[973], SIGTERM signal caught[15]]
+20141117-144614>[cms_anl.cpp]-[analysisMain]
+20141117-144614>
+	[CST-0, Message queue creation success with QUE_LOGGER]
+	[CST-0, Message queue open success with QUE_EVENT]
+20141117-144715>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[988], SIGTERM signal caught[15]]
+20141117-144730>
+20141117-144730>[cms_anl.cpp]-[loggerMain]
+	
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141117-144743>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[1062], SIGTERM signal caught[15]]
+20141117-144801>[cms_anl.cpp]-[analysisMain]
+	[CST-0, Message queue open success with QUE_EVENT]
+20141117-144827>[cms_anl.cpp]-[analysisMain]
+20141117-144827>
+	
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141117-144846>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[1102], SIGTERM signal caught[15]]
+20141117-144906>
+20141117-144906>[cms_anl.cpp]-[loggerMain]
+
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141117-144953>[cms_anl.cpp]-[analysisMain]
+20141117-144953>
+	
+	[CST--1, Message queue open failed with QUE_LOGGER : [vvv]]
+20141117-144953>[cms_anl.cpp]-[loggerMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141117-145001>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[1246], SIGTERM signal caught[15]]
+20141117-145003>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[1128], SIGTERM signal caught[15]]
+20141117-145019>
+20141117-145019>[cms_anl.cpp]-[analysisMain]
+	[CST--1, Message queue open failed with QUE_LOGGER : [vvv]]
+20141117-145019>[cms_anl.cpp]-[loggerMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141117-145642>[cms_anl.cpp]-[analysisMain]
+	[CST-0, Message queue open success with QUE_EVENT]
+20141117-145652>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[1849], SIGTERM signal caught[15]]
+20141117-145705>[cms_anl.cpp]-[analysisMain]
+	[CST-0, Message queue open success with QUE_EVENT]
+20141117-145715>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[1859], SIGTERM signal caught[15]]
+20141117-145728>[cms_anl.cpp]-[analysisMain]
+	[CST-0, Message queue open success with QUE_EVENT]
+20141117-145737>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[1869], SIGTERM signal caught[15]]
+20141117-145800>[cms_anl.cpp]-[analysisMain]
+	[CST-0, Message queue open success with QUE_EVENT]
+20141117-145807>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[1885], SIGTERM signal caught[15]]
+20141117-151723>
+20141117-151723>[cms_anl.cpp]-[analysisMain]
+
+	[CST-0, Message queue open success with QUE_EVENT]
+20141117-153827>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[3089], SIGTERM signal caught[15]]
+20141117-153851>
+20141117-153851>[cms_anl.cpp]-[analysisMain]
+
+	[CST-0, Message queue open success with QUE_EVENT]
+20141117-154149>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[4240], SIGTERM signal caught[15]]
+20141117-154631>[cms_anl.cpp]-[cms_anl.cpp]-[analysisMain]
+20141117-154631>[cms_anl.cpp]-[cms_anl.cP
+	[CST-0, Message queue open success with QUE_EVENT]
+
+20141117-155228>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[4449], SIGTERM signal caught[15]]
+20141117-155317>
+20141117-155317>	
+	
+	[CST-0, Message queue open success with QUE_EVENT]
+20141117-155341>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[4610], SIGTERM signal caught[15]]
+20141117-155411>
+20141117-155411>[cms_anl.cpp]-[analysisMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+	[CST-0, Message queue open success with QUE_EVENT]
+20141117-155757>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[4639], SIGTERM signal caught[15]]
+20141117-155953>[
+20141117-155953>	
+	
+	[CST-0, Message queue open success with QUE_EVENT]
+20141117-160128>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[5704], SIGTERM signal caught[15]]
+20141117-165853>[cms_anl.cpp]-[analysisMain]
+20141117-165853>
+	
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141117-171647>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[8385], SIGTERM signal caught[15]]
+20141117-175446>[
+20141117-175446>[cms_anl.cpp]-[analysisMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141117-175739>
+20141117-175739>[cms_anl.cpp]-[loggerMain]
+	
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141117-175916>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[11740], SIGTERM signal caught[15]]
+20141117-180303>[
+20141117-180303>[cms_anl.cpp]-[loggerMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+	[CST-0, Message queue open success with QUE_EVENT]
+20141117-180635>[cms_anl.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[12419], SIGTERM signal caught[15]]

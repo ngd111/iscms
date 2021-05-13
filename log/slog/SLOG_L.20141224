@@ -1,0 +1,242 @@
+20141224-100002>[cms_logger.cpp]-[loggerMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+callID      : 1 
+segment     : 1 
+domain      : cube-x19.hansol.com 
+tenant      : 1 
+acwtime     : 0 
+ansholdtime : 0 
+anslogin    : 8002 
+agt_released: 1 
+call_disp   : 2 
+calling_pty : 9001 
+conference  : 0 
+consulttime : 0 
+dialed_num  : 1001 
+dispsklevel : 0 
+dispsplit   : 2 
+disptime    : 6 
+dispvdn     : 1001 
+held        : 0 
+holdabn     : 0 
+origlogin   : 8001 
+queuetime   : 1 
+ringtime    : 2 
+segstart    : 1419382874 
+segstop     : 1419382884 
+talktime    : 1419382880 
+transferred : 0 
+UCID        : 00200000120141224100114 
+==============================================================================callID      : 2 
+segment     : 1 
+domain      : cube-x19.hansol.com 
+tenant      : 1 
+acwtime     : 0 
+ansholdtime : 0 
+anslogin    :  
+agt_released: 0 
+call_disp   : 3 
+calling_pty : 0260053858 
+conference  : 0 
+consulttime : 0 
+dialed_num  : 1000 
+dispsklevel : 0 
+dispsplit   : 1 
+disptime    : 3 
+dispvdn     : 1000 
+held        : 0 
+holdabn     : 0 
+origlogin   :  
+queuetime   : 3 
+ringtime    : 0 
+segstart    : 1419383167 
+segstop     : 1419383170 
+talktime    : 0 
+transferred : 0 
+UCID        : 00200000220141224100607 
+==============================================================================callID      : 3 
+segment     : 1 
+domain      : cube-x19.hansol.com 
+tenant      : 1 
+acwtime     : 0 
+ansholdtime : 0 
+anslogin    :  
+agt_released: 0 
+call_disp   : 3 
+calling_pty : 0260053858 
+conference  : 0 
+consulttime : 0 
+dialed_num  : 1000 
+dispsklevel : 0 
+dispsplit   : 1 
+disptime    : 3 
+dispvdn     : 1000 
+held        : 0 
+holdabn     : 0 
+origlogin   :  
+queuetime   : 3 
+ringtime    : 0 
+segstart    : 1419383204 
+segstop     : 1419383207 
+talktime    : 0 
+transferred : 0 
+UCID        : 00200000320141224100644 
+==============================================================================callID      : 4 
+segment     : 1 
+domain      : cube-x19.hansol.com 
+tenant      : 1 
+acwtime     : 0 
+ansholdtime : 0 
+anslogin    :  
+agt_released: 0 
+call_disp   : 3 
+calling_pty : 0260053858 
+conference  : 0 
+consulttime : 0 
+dialed_num  : 1000 
+dispsklevel : 0 
+dispsplit   : 1 
+disptime    : 2 
+dispvdn     : 1000 
+held        : 0 
+holdabn     : 0 
+origlogin   :  
+queuetime   : 2 
+ringtime    : 0 
+segstart    : 1419383218 
+segstop     : 1419383220 
+talktime    : 0 
+transferred : 0 
+UCID        : 00200000420141224100658 
+==============================================================================20141224-104033>[cms_logger.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[21623], SIGTERM signal caught[15]]
+20141224-104145>[cms_logger.cpp]-[loggerMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+callID      : 4 
+segment     : 1 
+domain      : cube-x19.hansol.com 
+tenant      : 1 
+acwtime     : 0 
+ansholdtime : 0 
+anslogin    : 8002 
+agt_released: 1 
+call_disp   : 2 
+calling_pty : 9001 
+conference  : 0 
+consulttime : 0 
+dialed_num  : 1001 
+dispsklevel : 0 
+dispsplit   : 2 
+disptime    : 6 
+dispvdn     : 1001 
+held        : 0 
+holdabn     : 0 
+origlogin   : 8001 
+queuetime   : 1 
+ringtime    : 2 
+segstart    : 1419385364 
+segstop     : 1419385375 
+talktime    : 1419385370 
+transferred : 0 
+UCID        : 00200000420141224104244 
+==============================================================================20141224-104411>[cms_logger.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[23336], SIGTERM signal caught[15]]
+20141224-104436>[cms_logger.cpp]-[loggerMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+callID      : 5 
+segment     : 1 
+domain      :  
+tenant      : 0 
+acwtime     : 0 
+ansholdtime : 0 
+anslogin    : 8002 
+agt_released: 1 
+call_disp   : 2 
+calling_pty : 9001 
+conference  : 0 
+consulttime : 0 
+dialed_num  : 1001 
+dispsklevel : 0 
+dispsplit   : 2 
+disptime    : 8 
+dispvdn     : 1001 
+held        : 0 
+holdabn     : 0 
+origlogin   : 8001 
+queuetime   : 1 
+ringtime    : 4 
+segstart    : 0 
+segstop     : 1419385518 
+talktime    : 4 
+transferred : 0 
+UCID        :  
+==============================================================================20141224-105026>[cms_logger.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[23388], SIGTERM signal caught[15]]
+20141224-105108>[cms_logger.cpp]-[loggerMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+callID      : 6 
+segment     : 1 
+domain      : cube-x19.hansol.com 
+tenant      : 1 
+acwtime     : 0 
+ansholdtime : 0 
+anslogin    : 8002 
+agt_released: 1 
+call_disp   : 2 
+calling_pty : 9001 
+conference  : 0 
+consulttime : 0 
+dialed_num  : 1001 
+dispsklevel : 0 
+dispsplit   : 2 
+disptime    : 6 
+dispvdn     : 1001 
+held        : 0 
+holdabn     : 0 
+origlogin   : 8001 
+queuetime   : 1 
+ringtime    : 2 
+segstart    : 1419385901 
+segstop     : 1419385911 
+talktime    : 4 
+transferred : 0 
+UCID        : 00200000620141224105141 
+==============================================================================20141224-110244>[cms_logger.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[23631], SIGTERM signal caught[15]]
+20141224-110314>[cms_logger.cpp]-[loggerMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141224-110731>[cms_logger.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[24988], SIGTERM signal caught[15]]
+20141224-110800>[cms_logger.cpp]-[loggerMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+callID      : 12 
+segment     : 1 
+domain      : cube-x19.hansol.com 
+tenant      : 1 
+acwtime     : 0 
+ansholdtime : 0 
+anslogin    :  
+agt_released: 0 
+call_disp   : 0 
+calling_pty :  
+conference  : 0 
+consulttime : 0 
+dialed_num  :  
+dispsklevel : 0 
+dispsplit   :  
+disptime    : 1419386913 
+dispvdn     :  
+held        : 0 
+holdabn     : 0 
+origlogin   :  
+queuetime   : 0 
+ringtime    : 0 
+segstart    : 1419386913 
+segstop     : 1419386918 
+talktime    : 0 
+transferred : 0 
+UCID        : 00200001220141224110833 
+==============================================================================20141224-111628>[cms_logger.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[25135], SIGTERM signal caught[15]]
+20141224-111654>[cms_logger.cpp]-[loggerMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]

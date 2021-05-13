@@ -1,0 +1,110 @@
+20141215-121313>[cms_logger.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[13172], SIGTERM signal caught[15]]
+20141215-121956>[cms_logger.cpp]-[loggerMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141215-132209>[cms_logger.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[9955], SIGTERM signal caught[15]]
+20141215-132226>[cms_logger.cpp]-[loggerMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141215-133229>[cms_logger.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[13256], SIGTERM signal caught[15]]
+20141215-133242>[cms_logger.cpp]-[loggerMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141215-133851>[cms_logger.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[14474], SIGTERM signal caught[15]]
+20141215-134120>[cms_logger.cpp]-[loggerMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141215-135511>[cms_logger.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[14777], SIGTERM signal caught[15]]
+20141215-135534>[cms_logger.cpp]-[loggerMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141215-141045>[cms_logger.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[15574], SIGTERM signal caught[15]]
+20141215-141329>[cms_logger.cpp]-[loggerMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141215-143320>[cms_logger.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[16785], SIGTERM signal caught[15]]
+20141215-143339>[cms_logger.cpp]-[loggerMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141215-144629>[cms_logger.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[18462], SIGTERM signal caught[15]]
+20141215-144653>[cms_logger.cpp]-[loggerMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+callID      : 23 
+segment     : 1 
+domain      : cube-x19.hansol.com 
+tenant      : 1 
+acwtime     : 0 
+ansholdtime : 0 
+anslogin    : 9002 
+agt_released: 0 
+call_disp   : 2 
+calling_pty : 9001 
+conference  : 0 
+consulttime : 0 
+dialed_num  : 1001 
+dispsklevel : 0 
+dispsplit   : 2 
+disptime    : 25 
+dispvdn     : 1001 
+held        : 0 
+holdabn     : 0 
+origlogin   : 8001 
+queuetime   : 1 
+ringtime    : 21 
+segstart    : 1418622580 
+segstop     : 1418622613 
+talktime    : 8 
+transferred : 0 
+UCID        : 00200002320141215144939 
+==============================================================================20141215-172555>[cms_logger.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[18856], SIGTERM signal caught[15]]
+20141215-172631>[cms_logger.cpp]-[loggerMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141215-173645>[cms_logger.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[25905], SIGTERM signal caught[15]]
+20141215-173740>[cms_logger.cpp]-[loggerMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+callID      : 34 
+segment     : 1 
+domain      : cube-x19.hansol.com 
+tenant      : 1 
+acwtime     : 0 
+ansholdtime : 0 
+anslogin    :  
+agt_released: 0 
+call_disp   : 3 
+calling_pty : 01050593828 
+conference  : 0 
+consulttime : 0 
+dialed_num  : 1000 
+dispsklevel : 0 
+dispsplit   : 1 
+disptime    : 24 
+dispvdn     : 1000 
+held        : 0 
+holdabn     : 0 
+origlogin   :  
+queuetime   : 24 
+ringtime    : 0 
+segstart    : 1418632716 
+segstop     : 1418632740 
+talktime    : 0 
+transferred : 0 
+UCID        : 00200003420141215173836 
+==============================================================================20141215-181217>[cms_logger.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[26650], SIGTERM signal caught[15]]
+20141215-181227>[cms_logger.cpp]-[loggerMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141215-181600>[cms_logger.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[28171], SIGTERM signal caught[15]]
+20141215-181608>[cms_logger.cpp]-[loggerMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141215-181735>[cms_logger.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[28243], SIGTERM signal caught[15]]
+20141215-181748>[cms_logger.cpp]-[loggerMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+20141215-182617>[cms_logger.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[29527], SIGTERM signal caught[15]]
+20141215-182632>[cms_logger.cpp]-[loggerMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]

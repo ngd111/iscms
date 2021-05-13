@@ -1,0 +1,140 @@
+callID      : 257 
+segment     : 1 
+domain      : cube-x19.hansol.com 
+tenant      : 1 
+acwtime     : 0 
+ansholdtime : 0 
+anslogin    :  
+agt_released: 0 
+call_disp   : 7 
+calling_pty : 9001 
+conference  : 0 
+consulttime : 0 
+dialed_num  : 901032780912 
+dispsklevel : 0 
+dispsplit   :  
+disptime    : 0 
+dispvdn     :  
+held        : 0 
+holdabn     : 0 
+origlogin   : 8001 
+queuetime   : 0 
+ringtime    : 7 
+segstart    : 1420595945 
+segstop     : 1420595959 
+talktime    : 6 
+transferred : 0 
+UCID        : 00200025720150107105905 
+==============================================================================
+callID      : 286 
+segment     : 1 
+domain      :  
+tenant      : 0 
+acwtime     : 0 
+ansholdtime : 0 
+anslogin    :  
+agt_released: 0 
+call_disp   : 3 
+calling_pty :  
+conference  : 0 
+consulttime : 0 
+dialed_num  :  
+dispsklevel : 0 
+dispsplit   :  
+disptime    : 0 
+dispvdn     :  
+held        : 0 
+holdabn     : 0 
+origlogin   :  
+queuetime   : 0 
+ringtime    : 1420627083 
+segstart    : 0 
+segstop     : 1420627083 
+talktime    : 0 
+transferred : 0 
+UCID        :  
+==============================================================================
+callID      : 287 
+segment     : 1 
+domain      :  
+tenant      : 0 
+acwtime     : 0 
+ansholdtime : 0 
+anslogin    :  
+agt_released: 0 
+call_disp   : 3 
+calling_pty :  
+conference  : 0 
+consulttime : 0 
+dialed_num  :  
+dispsklevel : 0 
+dispsplit   :  
+disptime    : 0 
+dispvdn     :  
+held        : 0 
+holdabn     : 0 
+origlogin   :  
+queuetime   : 0 
+ringtime    : 1420627092 
+segstart    : 0 
+segstop     : 1420627092 
+talktime    : 0 
+transferred : 0 
+UCID        :  
+==============================================================================
+callID      : 288 
+segment     : 1 
+domain      :  
+tenant      : 0 
+acwtime     : 0 
+ansholdtime : 0 
+anslogin    :  
+agt_released: 0 
+call_disp   : 3 
+calling_pty :  
+conference  : 0 
+consulttime : 0 
+dialed_num  :  
+dispsklevel : 0 
+dispsplit   :  
+disptime    : 0 
+dispvdn     :  
+held        : 0 
+holdabn     : 0 
+origlogin   :  
+queuetime   : 0 
+ringtime    : 1420627123 
+segstart    : 0 
+segstop     : 1420627123 
+talktime    : 0 
+transferred : 0 
+UCID        :  
+==============================================================================
+callID      : 289 
+segment     : 1 
+domain      :  
+tenant      : 0 
+acwtime     : 0 
+ansholdtime : 0 
+anslogin    :  
+agt_released: 0 
+call_disp   : 3 
+calling_pty :  
+conference  : 0 
+consulttime : 0 
+dialed_num  :  
+dispsklevel : 0 
+dispsplit   :  
+disptime    : 0 
+dispvdn     :  
+held        : 0 
+holdabn     : 0 
+origlogin   :  
+queuetime   : 0 
+ringtime    : 1420627837 
+segstart    : 0 
+segstop     : 1420627837 
+talktime    : 0 
+transferred : 0 
+UCID        :  
+==============================================================================

@@ -1,0 +1,118 @@
+20150114-130431>[cms_logger.cpp]-[loggerMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+callID      : 68 
+segment     : 1 
+domain      :  
+tenant      : 0 
+acwtime     : 0 
+ansholdtime : 0 
+anslogin    :  
+agt_released: 0 
+call_disp   : 3 
+calling_pty : 9009 
+conference  : 0 
+consulttime : 0 
+dialed_num  : 9001 
+dispsklevel : 0 
+dispsplit   :  
+disptime    : 0 
+dispvdn     :  
+held        : 0 
+holdabn     : 0 
+origlogin   :  
+queuetime   : 0 
+ringtime    : 12 
+segstart    : 1421208125 
+segstop     : 1421208137 
+talktime    : 0 
+transferred : 0 
+UCID        :  
+==============================================================================
+callID      : 69 
+segment     : 1 
+domain      :  
+tenant      : 0 
+acwtime     : 0 
+ansholdtime : 0 
+anslogin    :  
+agt_released: 0 
+call_disp   : 3 
+calling_pty : 9009 
+conference  : 0 
+consulttime : 0 
+dialed_num  : 9001 
+dispsklevel : 0 
+dispsplit   :  
+disptime    : 0 
+dispvdn     :  
+held        : 0 
+holdabn     : 0 
+origlogin   :  
+queuetime   : 0 
+ringtime    : 23 
+segstart    : 1421208279 
+segstop     : 1421208302 
+talktime    : 0 
+transferred : 0 
+UCID        :  
+==============================================================================
+20150114-130749>[cms_logger.cpp]-[FuncSIGTERM]
+	[CST-0, Pid:[14288], SIGTERM signal caught[15]]
+20150114-132425>[cms_logger.cpp]-[loggerMain]
+	[CST-0, Message queue creation success with QUE_LOGGER]
+callID      : 70 
+segment     : 1 
+domain      : cube-x19.hansol.com 
+tenant      : 0 
+acwtime     : 0 
+ansholdtime : 0 
+anslogin    :  
+agt_released: 0 
+call_disp   : 3 
+calling_pty : 9009 
+conference  : 0 
+consulttime : 0 
+dialed_num  : 9001 
+dispsklevel : 0 
+dispsplit   :  
+disptime    : 0 
+dispvdn     :  
+held        : 0 
+holdabn     : 0 
+origlogin   :  
+queuetime   : 0 
+ringtime    : 4 
+segstart    : 1421209475 
+segstop     : 1421209479 
+talktime    : 0 
+transferred : 0 
+UCID        :  
+==============================================================================
+callID      : 71 
+segment     : 1 
+domain      : cube-x19.hansol.com 
+tenant      : 0 
+acwtime     : 0 
+ansholdtime : 0 
+anslogin    : 8001 
+agt_released: 1 
+call_disp   : 1 
+calling_pty : 9009 
+conference  : 0 
+consulttime : 0 
+dialed_num  : 9001 
+dispsklevel : 0 
+dispsplit   :  
+disptime    : 0 
+dispvdn     :  
+held        : 0 
+holdabn     : 0 
+origlogin   :  
+queuetime   : 0 
+ringtime    : 13 
+segstart    : 1421209496 
+segstop     : 1421209514 
+talktime    : 5 
+transferred : 0 
+UCID        :  
+==============================================================================

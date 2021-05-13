@@ -1,0 +1,28 @@
+callID      : 28 
+segment     : 1 
+domain      : cube-x19.hansol.com 
+tenant      : 1 
+acwtime     : 0 
+ansholdtime : 0 
+anslogin    :  
+agt_released: 0 
+call_disp   : 3 
+calling_pty : 01082889299 
+conference  : 0 
+consulttime : 0 
+dialed_num  : 1000 
+dispsklevel : 0 
+dispsplit   : 1 
+disptime    : 31 
+dispvdn     : 1000 
+held        : 0 
+holdabn     : 0 
+origlogin   :  
+queuetime   : 31 
+ringtime    : 0 
+segstart    : 1418963038 
+segstop     : 1418963069 
+talktime    : 0 
+transferred : 0 
+UCID        : 00200002820141219132358 
+==============================================================================
